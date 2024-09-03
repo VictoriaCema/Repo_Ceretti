@@ -1,0 +1,21 @@
+    1  ls
+    2  ls -l
+    3  ls -la
+    4  man ls
+    5  man man
+    6  pwd
+    7  whoamai
+    8  whoami
+    9  echo
+   10  echo "hola"
+   11  echo $HOME
+   12  ls
+   13  cat README 
+   14  cd repogit/
+   15  ls
+   16  git clone https://github.com/VictoriaCema/Repo_Ceretti.git
+   17  ls
+   18  cd Repo_Ceretti/
+   19  ls
+   20  history
+   21  history > historial.txt
